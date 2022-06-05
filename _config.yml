@@ -1,4 +1,15 @@
-theme: jekyll-theme-minimal
-title: tacticalnerdery.com
-description: A place to share technical learnings, etc.
-author: ray terrill
+title: TacticalNerdery.com
+description: >-
+  I read A LOT of articles, and share a bunch of them with my teammates (probably an overwhelming amount, but I digress). Wanted an easy way to share them with others with an RSS
+  feed, but without a lot of maintenance.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
+minima:
+  skin: dark
+plugins:
+  - jekyll-feed
