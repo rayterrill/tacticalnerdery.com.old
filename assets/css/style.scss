@@ -1,8 +1,0 @@
----
-@import "{{ site.theme }}";
-
-// override the a:hover and a:focus to stop making the font bold
-a.tagcloud:hover, a.tagcloud:focus {
-   font-weight: normal;
-   color: #069;
-}
