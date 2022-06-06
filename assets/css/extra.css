@@ -2,6 +2,10 @@
     text-align: center;    
 }
 
+.page-content {
+    padding: 5px;
+}
+
 .site-footer {
     padding: 5px;
     padding-top: 15px;
