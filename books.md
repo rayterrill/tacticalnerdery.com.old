@@ -5,6 +5,7 @@ permalink: /books/
 ---
 
 > I love to read. It's the primary way I learn new information, and I'm constantly reading something (or more than likely many somethings). These are a few things that have stuck out for me as really useful resources.
+
 <br />
 <br />
 
