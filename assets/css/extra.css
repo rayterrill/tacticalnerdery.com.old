@@ -5,4 +5,5 @@
 .site-footer {
     padding: 5px;
     padding-top: 15px;
+    padding-bottom: calc(1em + env(safe-area-inset-bottom));
 }
