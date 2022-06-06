@@ -2,6 +2,7 @@
     text-align: center;    
 }
 
+/*
 .page-content {
     padding: 5px;
 }
@@ -12,3 +13,4 @@
     padding-top: calc(1em + env(safe-area-inset-bottom));
     padding-bottom: calc(1em + env(safe-area-inset-bottom));
 }
+*/
