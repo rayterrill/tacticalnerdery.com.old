@@ -7,7 +7,6 @@ permalink: /books/
 > I love to read. It's the primary way I learn new information, and I'm constantly reading something (or more than likely many somethings). These are a few things that have stuck out for me as really useful resources.
 
 <br />
-<br />
 
 * [The Go Programming Language](https://www.gopl.io/) - Pretty much the definitive guide for Go. I'm still not sure I'm smart enough to understand everything in this book. :)
 
