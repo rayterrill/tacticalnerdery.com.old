@@ -4,7 +4,8 @@ title: Books I Like
 permalink: /books/
 ---
 
-> I love to read. It's the primary way I attain information, and I'm constatly reading something (or many somethings). These are a few things that have stuck out for me as really useful resources of late.
+> I love to read. It's the primary way I learn new information, and I'm constantly reading something (or more than likely many somethings). These are a few things that have stuck out for me as really useful resources.
+
 
 * [The Go Programming Language](https://www.gopl.io/) - Pretty much the definitive guide for Go. I'm still not sure I'm smart enough to understand everything in this book. :)
 
