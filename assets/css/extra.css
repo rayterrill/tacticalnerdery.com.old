@@ -2,13 +2,8 @@
     text-align: center;    
 }
 
-.page-content {
-    flex-basis: calc(100% - 100px);
-}
-
 .site-footer {
     margin-top: auto;
     padding: 5px;
-    padding-top: calc(1em + env(safe-area-inset-bottom));
     padding-bottom: calc(1em + env(safe-area-inset-bottom));
 }

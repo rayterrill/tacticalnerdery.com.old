@@ -13,3 +13,4 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
+show_content: true
