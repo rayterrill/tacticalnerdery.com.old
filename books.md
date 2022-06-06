@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books I Like
+title: Books
 permalink: /books/
 ---
 
