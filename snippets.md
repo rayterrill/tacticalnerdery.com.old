@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Snippets
-permalink: /books/
+permalink: /snippets/
 ---
 
 > Snippets or little things I cannot seem to remember but continue to need to get things done.
