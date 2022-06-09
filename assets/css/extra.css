@@ -1,9 +1,29 @@
-.footer-text {
-    text-align: center;    
+.header-bottom {
+    border-bottom: 1px solid #404040;
 }
 
-.site-footer {
-    margin-top: auto;
-    padding: 5px;
-    padding-bottom: calc(1em + env(safe-area-inset-bottom));
+.footer-top {
+    border-top: 1px solid #404040;
+}
+
+body {
+    color: #bbb;
+}
+
+a {
+    color: #79b8ff;
+    text-decoration: none;
+}
+
+.post-meta {
+    font-size: 14px;
+    color: #999;
+}
+
+.post-title {
+    font-size: 2.625rem;
+}
+
+pre code {
+    color: #d63384;
 }
