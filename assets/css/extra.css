@@ -11,8 +11,13 @@ body {
 }
 
 a {
-    color: #79b8ff;
+    color: white;
     text-decoration: none;
+}
+
+a:hover :not(.nav-link){
+    text-decoration: underline;
+    color: white;
 }
 
 .post-meta {
@@ -27,3 +32,46 @@ a {
 pre code {
     color: #d63384;
 }
+
+.navbar {
+    font-weight: 700;
+}
+
+/*navbar underline */
+  .navbar .navbar-nav .nav-link:hover {
+    color: white;
+  }
+  .navbar .navbar-nav .nav-item {
+    position: relative;
+  }
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: white;
+    width: 0%;
+    content: "";
+    height: 4px;
+    transition: all 0.5s;
+  }
+  
+  .navbar .navbar-nav .nav-item:hover::after {
+    width: 100%;
+  }
+
+@media only screen and (min-width: 992px) {
+    .navbar {
+      padding: 0;
+    }
+    .navbar .navbar-brand {
+      padding: 0 0.7em;
+    }
+    .navbar .navbar-nav .nav-link {
+      padding: 1em 0;
+    }
+    .navbar .navbar-nav .nav-item {
+      margin: 0 1em;
+    }
+  }
