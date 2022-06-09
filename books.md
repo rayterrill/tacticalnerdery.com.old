@@ -15,3 +15,5 @@ permalink: /books/
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) - One of the first books I read about Kubernetes. I still refer back to this occasionally.
 
 * [Kubernetes Operators](https://www.redhat.com/rhdc/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf) and [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/). These two books together helped me get a good grasp of k8s operators and how they can be used to build resources.
+
+* [Google's SRE Series](https://sre.google/books/) - The Google SRE Series is pretty excellent.
