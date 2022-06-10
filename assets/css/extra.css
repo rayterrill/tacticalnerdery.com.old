@@ -68,9 +68,10 @@ a:hover:not(.nav-link){
     .navbar {
       padding: 0;
     }
+    /*
     .navbar .navbar-brand {
-      padding: 0 0.7em;
     }
+    */
     .navbar .navbar-nav .nav-link {
       padding: 1em 0;
     }
