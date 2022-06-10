@@ -8,25 +8,19 @@ permalink: /snippets/
 
 #### Adding an cluster to kubeconfig
 <pre class="code">
-<code>
 aws eks update-kubeconfig --region [region] --name [cluster name]
-</code>
 </pre>
 
 #### Run a Ubuntu Pod in a Cluster to Debug Something
 One of these days I'm gonna push an image to Dockerhub that has all the tools I need so I don't need to `apt update; apt install curl;`, etc - but that is not today. :)
 <pre class="code">
-<code>
 kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
-</code>
 </pre>
 
 #### Fix the Weird Terraform v0.12 Issue Where it Won't Load AWS Creds
 This annoys the shit out of me and I always forget this command. :)
-<pre>
-<code>
+<pre class=code>
 export AWS_SDK_LOAD_CONFIG=1
-</code>
 </pre>
 
 #### Use grep, awk, and xargs to Do Some Sketchy Stuff in a Cluster
