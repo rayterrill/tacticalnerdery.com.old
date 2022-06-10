@@ -31,7 +31,8 @@ a:hover:not(.nav-link){
 
 .code {
     background-color: #605a5a;
-    color: #d63384;
+    color: #dfc9d4;
+    padding: 1%;
 }
 
 .navbar {
