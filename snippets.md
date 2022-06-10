@@ -38,3 +38,7 @@ kubectl get po | grep Terminating | awk '{print $1}' | xargs kubectl delete po -
 kubectl get po --all-namespaces | grep Terminating | awk '{print $2 " " $1}' | xargs printf 'kubectl delete po %s -n %s --force --grace-period=0\n'
 </code>
 </pre>
+
+#### Clear the Console + Scrollback in the VS Code Console
+I need to use the VSCode Console more instead of switching back/forth between the IDE and iTerm.<i class="fa-solid fa-dumpster-fire"></i>
+<kbd>CMD + k</kbd> or <kbd>CTRL</kbd>
