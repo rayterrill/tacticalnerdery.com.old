@@ -32,7 +32,7 @@ kubectl get po --all-namespaces | grep Terminating | awk '{print $2 " " $1}' | x
 </pre>
 
 #### Clear the Console + Scrollback in the VS Code Console
-I need to use the VSCode Console more instead of switching back/forth between the IDE and iTerm.<i class="fa-solid fa-dumpster-fire"></i>
+I need to use the VSCode Console more instead of switching back/forth between the IDE and iTerm. <i class="fa-regular fa-poo-storm"></i>
 <pre class="code">
 <kbd>CMD + K</kbd> or <kbd>CTRL + K</kbd>
 </pre>
