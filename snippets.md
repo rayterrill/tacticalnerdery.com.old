@@ -26,11 +26,9 @@ export AWS_SDK_LOAD_CONFIG=1
 #### Use grep, awk, and xargs to Do Some Sketchy Stuff in a Cluster
 Disclaimers: YMMV/IANAL/Don't try this at home I'm a professional :)
 <pre class="code">
-<code>
 kubectl get po | grep Terminating | awk '{print $1}' | xargs kubectl delete po --force --grace-period=0
 
 kubectl get po --all-namespaces | grep Terminating | awk '{print $2 " " $1}' | xargs printf 'kubectl delete po %s -n %s --force --grace-period=0\n'
-</code>
 </pre>
 
 #### Clear the Console + Scrollback in the VS Code Console
