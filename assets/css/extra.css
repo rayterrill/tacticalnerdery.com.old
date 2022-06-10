@@ -33,6 +33,7 @@ a:hover:not(.nav-link){
     background-color: #605a5a;
     color: #dfc9d4;
     padding: 1%;
+    word-wrap: break-word;
 }
 
 .navbar {
