@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
 
+kbd {
+    background-color: #a78888;
+}
+
 a:hover:not(.nav-link){
     text-decoration: underline;
     color: white;
@@ -25,7 +29,8 @@ a:hover:not(.nav-link){
     font-size: 2.625rem;
 }
 
-pre code {
+.code {
+    background-color: #605a5a;
     color: #d63384;
 }
 
