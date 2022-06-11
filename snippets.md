@@ -37,3 +37,9 @@ I need to use the VSCode Console more instead of switching back/forth between th
 <pre class="code">
 <kbd>CMD + K</kbd> or <kbd>CTRL + K</kbd>
 </pre>
+#### Add an Origin for Github
+<pre class="code">
+git remote add origin https://github.com/rayterrill/t.git
+git branch -M main
+git push -u origin main
+</pre>

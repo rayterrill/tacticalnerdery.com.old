@@ -79,3 +79,21 @@ a:hover:not(.nav-link){
       margin: 0 1em;
     }
   }
+
+.chroma {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #dfc9d4;
+  color: #404040;
+  padding: 20px;
+}
+
+.solution {
+  font-size: 150%;
+  font-weight: 700;
+}
+
+hr {
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
