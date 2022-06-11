@@ -15,7 +15,7 @@ Other Examples in the Community:
 Set `EXIT_ON_ZERO_ACTIVE_CONNECTIONS` in the Istio proxy configmap so Envoy proxies don't exit until the programs are complete.
 </div>
 <hr />
-<h3><a href='https://github.com/rayterrill/go_openapi3_examples'>Golang Openapi3 Spec Generation and Validation</a></h3>
+<h3><a href='https://github.com/rayterrill/go_openapi3_examples'>Golang Openapi3 Spec Generation and Validation and Spectral openapi linting</a></h3>
 <hr />
 ### ClusterAPI + AWS Integration
 Built out an integration with a minimal api to allow engineers to pave out new EKS clusters using a Gitops style flow. Designed an built a new custom k8s controller to automatically provision new clusters into ArgoCD upon creation, as well as deprovision upon removal. Also includes integration with AWS' new node provisioning toolset, [Karpenter](https://karpenter.sh). Made upstream commit to Karpenter repo to add support for utilizing Bottlerocket instances with Karpenter [#1110](https://github.com/aws/karpenter/pull/1110).
