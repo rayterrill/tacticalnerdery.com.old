@@ -43,3 +43,13 @@ git remote add origin https://github.com/rayterrill/t.git
 git branch -M main
 git push -u origin main
 </pre>
+<hr />
+#### Helm Stuff
+Pull a specific chart version:
+<pre class="code">
+helm pull ingress-nginx/ingress-nginx --version 3.11.1
+</pre>
+See what versions of a chart are available:
+<pre class="code">
+helm search repo ingress-nginx/ingress-nginx --versions
+</pre>
