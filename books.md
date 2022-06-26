@@ -19,3 +19,6 @@ permalink: /books/
 * [Google's SRE Series](https://sre.google/books/) - The Google SRE Series is pretty excellent.
 
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets) - You never can know too much about how the networking magic works in Kubernetes.
+
+* [Oh Shit Git](https://ohshitgit.com/)
+
