@@ -12,6 +12,10 @@ permalink: /tech/
 
 * [Yubikeys](https://www.yubico.com/setup/) - Whenever I'm setting up a new service, the first thing I look for is does it support Yubikey. Brilliant little devices to keep your MFA local and physical while still being extremely convenient. You need these.
 
+* [VSCode](https://code.visualstudio.com/) - Lightweight, powerful.
+
+* [OpenLENS](https://k8slens.dev/) - Excellent k8s GUI.
+
 ## Things I Want to Check Out
 
 ### Kubernetes
@@ -19,6 +23,10 @@ permalink: /tech/
 * https://github.com/box/kube-iptables-tailer
 * https://github.com/eldadru/ksniff
 * https://github.com/up9inc/mizu/
+
+### General Tech
+
+* https://coder.com/
 
 ### Personal
 
