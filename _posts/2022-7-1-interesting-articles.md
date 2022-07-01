@@ -11,3 +11,5 @@ categories: tech
 
 * [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/) - A little basic, but a pretty cool explanation of the things you need to think about with a mobile app and backend infra.
 
+* [Improve working across time zones in product development](https://askwhy.substack.com/p/improve-working-across-time-zones)
+
