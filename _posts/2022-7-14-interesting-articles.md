@@ -3,7 +3,7 @@ layout: post
 title:  "Interesting Articles - 7/14/2022"
 categories: tech
 ---
-* [Kubernetes cluster upgrade: the blue-green deployment strategy](https://mail.google.com/mail/u/0/#inbox/FMfcgzGpGwjBcMLcThpxJXswzCKjGJvX) - YES.
+* [Kubernetes cluster upgrade: the blue-green deployment strategy](https://aws.amazon.com/blogs/containers/kubernetes-cluster-upgrade-the-blue-green-deployment-strategy/) - YES.
 
 * [Threat hunting in Okta logs](https://medium.com/threatpunter/okta-threat-hunting-tips-62dc0013d526)
 
