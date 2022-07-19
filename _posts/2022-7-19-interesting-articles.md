@@ -9,7 +9,7 @@ categories: tech
 
 * [spf13 Google -->](https://spf13.com/p/spf13-google/)
 
-* [Ship it on ARM64! Or is it AARCH64?](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64
+* [Ship it on ARM64! Or is it AARCH64?](https://memgraph.com/blog/ship-it-on-arm64-or-is-it-aarch64)
 
 * [Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/)
 
