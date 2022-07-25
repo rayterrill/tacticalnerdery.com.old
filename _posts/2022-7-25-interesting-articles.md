@@ -21,3 +21,6 @@ categories: tech
 
 * [hey: HTTP load generator](https://github.com/rakyll/hey)
 
+* [The "Spreadsheet Mentality" sucks, and kills the efficacy of jobs](https://tedbauer2003.medium.com/the-spreadsheet-mentality-sucks-and-kills-the-efficacy-of-jobs-697b9f2e83b8)
+
+* [Bizops rant](https://twitter.com/itunpredictable/status/1547311549336920067)
