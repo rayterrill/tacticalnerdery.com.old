@@ -32,4 +32,5 @@ permalink: /links/
 * https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application
 * https://boxyhq.com/
 * https://www.solo.io/blog/configuring-cors-and-jwt-in-istio-for-secure-cross-origin-requests/
+* https://earthly.dev/blog/pongo/
 
