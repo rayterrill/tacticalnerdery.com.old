@@ -8,3 +8,7 @@ categories: tech
 * [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes) - Another cool story of someone hating on k8s for no reason, then discovering it's actually very cool.
 
 * [I Don’t Like Go’s Default HTTP Handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
+
+* [Support for Istio 1.12 has ended](https://istio.io/latest/news/support/announcing-1.12-eol-final/)
+
+* [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
