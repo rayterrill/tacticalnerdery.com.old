@@ -12,3 +12,5 @@ categories: tech
 * [Support for Istio 1.12 has ended](https://istio.io/latest/news/support/announcing-1.12-eol-final/)
 
 * [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
+
+* [Zero Trust Security for Kubernetes with a Service Mesh](https://www.hashicorp.com/blog/zero-trust-security-for-kubernetes-with-a-service-mesh)
