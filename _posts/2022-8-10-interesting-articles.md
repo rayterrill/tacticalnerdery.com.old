@@ -14,3 +14,16 @@ categories: tech
 * [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
 
 * [Zero Trust Security for Kubernetes with a Service Mesh](https://www.hashicorp.com/blog/zero-trust-security-for-kubernetes-with-a-service-mesh)
+
+* [How to learn hard things in tech](https://technicallychallenged.substack.com/p/how-to-learn-hard-things-in-tech)
+
+* [Stop Ghosting and Start Saying No](https://hbr.org/2022/08/stop-ghosting-and-start-saying-no)
+
+* [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
+
+* [Amazon EKS now supports Kubernetes 1.23](https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-1-23/)
+
+* [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
+
+* [Redis Explained](https://architecturenotes.co/redis/)
+
