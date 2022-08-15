@@ -12,3 +12,6 @@ categories: tech
 * [The mechanics of a sophisticated phishing scam and how we stopped it](https://blog.cloudflare.com/2022-07-sms-phishing-attacks/) - Another example where yubikey/FIDO is better than password + TOTP.
 
 * [Auto Traffic Control is a video game played by programming](https://auto-traffic-control.com/) - This looks cool as hell.
+
+* [Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
+
