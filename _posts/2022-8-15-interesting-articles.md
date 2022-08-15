@@ -15,3 +15,7 @@ categories: tech
 
 * [Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
 
+* [Locking down your GitHub-hosted Domains](https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/)
+
+* [Kubernetes StatefulSets are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
+
