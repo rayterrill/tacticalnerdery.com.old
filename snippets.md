@@ -55,3 +55,8 @@ See what versions of a chart are available:
 <pre class="code">
 helm search repo ingress-nginx/ingress-nginx --versions
 </pre>
+
+#### Get Running AWS Instances with Filtering
+```
+aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/my-cluster,Values=owned" "Name=instance-state-name,Values=running" --region us-east-1 | jq '.Reservations | length'
+```
