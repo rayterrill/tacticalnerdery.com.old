@@ -12,3 +12,5 @@ categories: tech
 * [Poor Man's Global Traffic Manager](https://gist.github.com/Snawoot/b7065addf014d90f858dbd185d514cde)
 
 * [About security hardening with OpenID Connect](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect)
+
+* [Update – Configuring Argo CD with Crossplane](https://vrelevant.net/update-configuring-argo-cd-with-crossplane/)
