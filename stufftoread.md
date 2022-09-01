@@ -33,4 +33,4 @@ permalink: /links/
 * https://boxyhq.com/
 * https://www.solo.io/blog/configuring-cors-and-jwt-in-istio-for-secure-cross-origin-requests/
 * https://earthly.dev/blog/pongo/
-
+* https://golang.hotexamples.com/site/file?hash=0xc347fef14670a7a765d772d1ec4bf05de5fe99556098d8d0ed72188e88726ab1&fullName=submit-queue%2Fgithub.go&project=jdef%2Fcontrib
