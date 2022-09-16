@@ -60,3 +60,36 @@ helm search repo ingress-nginx/ingress-nginx --versions
 ```
 aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/my-cluster,Values=owned" "Name=instance-state-name,Values=running" --region us-east-1 | jq '.Reservations | length'
 ```
+
+#### Setting Up GPG with a Yubikey
+
+1. Insert the compatible yubikey into the computer
+2. Reset the pins if desired (recommended)
+    1. `gpg --card-edit`
+    2. Enter admin mode: `admin`
+    3. Change the passwords: `passwd`
+3. Change the key size to 4096 (prob defaults to 2048)
+    1. `gpg --card-edit`
+    2. Enter admin mode: `admin`
+    3. Change key attributes: `key-attr`
+    4. Choose RSA
+    5. Set the keysize to 4096
+4. Generate GPG key
+    1. `gpg --card-edit`
+    2. Enter admin mode: `admin`
+    3. Generate key: `generate`
+    4. Follow the prompts, and make sure your full name and email match what you have set in Github
+5. Export the key to put into github
+    1. Get the key id from the output from command 4, and use it here: `gpg --armor --export KEY_ID_FROM_STEP_4`
+    2. Put the outputted PGP Public Key Block in Github
+6. Configure Git to always sign:
+    ```
+    [credential]
+        helper = osxkeychain
+    [user]
+        email = YOUR_EMAIL_ADDRESS_WHICH_MATCHES_GITHUB
+        name = YOUR_FULLNAME_WHICH_MATCHES_GITHUB
+        signingkey = KEY_ID_FROM_STEP_4
+    [commit]
+        gpgsign = true
+    ```
