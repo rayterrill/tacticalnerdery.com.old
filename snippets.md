@@ -16,6 +16,10 @@ One of these days I'm gonna push an image to Dockerhub that has all the tools I 
 <pre class="code">
 kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
 </pre>
+#### Run a Ubuntu Contianer in Docker
+<pre class="code">
+docker run --name test -it --rm ubuntu
+</pre>
 <hr />
 #### Fix the Weird Terraform v0.12 Issue Where it Won't Load AWS Creds
 This annoys the shit out of me and I always forget this command. :)
