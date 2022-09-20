@@ -20,6 +20,10 @@ kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
 <pre class="code">
 docker run --name test -it --rm ubuntu
 </pre>
+#### Run a Specific Arch for a Docker Image
+<pre class="code">
+docker run --name test -it --rm --platform=linux/amd64 ubuntu
+</pre>
 <hr />
 #### Fix the Weird Terraform v0.12 Issue Where it Won't Load AWS Creds
 This annoys the shit out of me and I always forget this command. :)
