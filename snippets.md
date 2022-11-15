@@ -16,9 +16,13 @@ One of these days I'm gonna push an image to Dockerhub that has all the tools I 
 <pre class="code">
 kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
 </pre>
-#### Run a Ubuntu Contianer in Docker
+#### Run a Ubuntu Container in Docker
 <pre class="code">
 docker run --name test -it --rm ubuntu
+</pre>
+#### Run a Ubuntu Container with PowerShell (No arm64 images yet)
+<pre class="code">
+docker run --name test -it --rm --platform=linux/amd64 mcr.microsoft.com/powershell
 </pre>
 #### Run a Specific Arch for a Docker Image
 <pre class="code">
