@@ -1,7 +1,7 @@
 # ---
 layout: page
-title: I<3Go
-permalink: /<3go/
+title: go
+permalink: /go/
 ---
 
 <h3>I <3 Go</h3>
