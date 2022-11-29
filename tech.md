@@ -45,6 +45,7 @@ permalink: /tech/
 ### General Tech
 
 * https://coder.com/
+* [haikunator](https://github.com/usmanbashir/haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
 
 ### Personal
 
