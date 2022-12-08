@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interesting Articles - 0/00/2022"
+title:  "Interesting Articles - 12/8/2022"
 categories: tech
 ---
 * [CS 007: PERSONAL FINANCE FOR ENGINEERS](https://cs007.blog/)
