@@ -4,6 +4,12 @@ title: Links
 permalink: /links/
 ---
 
+### Funny Stuff
+* [Guided DevOps Meditation](https://www.youtube.com/watch?v=epcbx5HkCbM)
+* [Pagerduty Song](https://pagerduty.life/)
+
+### Random Stuff to Read
+
 * https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
 * https://github.com/die-net/http-tarpit
 * https://ui.docs.amplify.aws/
