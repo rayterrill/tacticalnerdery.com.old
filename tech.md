@@ -33,6 +33,11 @@ permalink: /tech/
 * <https://github.com/caarlos0/ctrlc> - CTRL-C is a Go library that provides an easy way of having a task that is context-aware and deals with SIGINT and SIGTERM signals.
 * <https://github.com/hashicorp/go-retryablehttp> - Automatically retry retriable HTTP errors
 * <https://github.com/gin-gonic/gin> - HTTP web framework
+* <https://github.com/spf13/cobra> - A Commander for modern Go CLI interactions
+* <https://github.com/uber-go/zap> - Blazing fast, structured, leveled logging in Go.
+* <https://github.com/fatih/color> - Color package for Go
+* <https://github.com/russross/blackfriday> - Blackfriday: a markdown processor for Go
+* <https://github.com/microcosm-cc/bluemonday> - bluemonday: a fast golang HTML sanitizer 
 
 ### NodeJS
 
