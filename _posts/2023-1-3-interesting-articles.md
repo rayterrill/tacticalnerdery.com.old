@@ -19,7 +19,7 @@ categories: tech
 
 * [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 
-* [https://github.com/google/osv-scanner](https://github.com/google/osv-scanner)
+* [Vulnerability scanner written in Go which uses the data provided by https://osv.dev](https://github.com/google/osv-scanner)
 
 * [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 
