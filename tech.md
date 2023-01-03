@@ -34,13 +34,18 @@ permalink: /tech/
 * <https://github.com/hashicorp/go-retryablehttp> - Automatically retry retriable HTTP errors
 * <https://github.com/gin-gonic/gin> - HTTP web framework
 
+### NodeJS
+
+* <https://www.passportjs.org/> - PassportJS
+
 ## Things I Want to Check Out
 
-### Kubernetes
+### Kubernetes/Containers
 
 * https://github.com/box/kube-iptables-tailer
 * https://github.com/eldadru/ksniff
 * https://github.com/up9inc/mizu/
+* https://github.com/runfinch/finch
 
 ### General Tech
 
@@ -50,4 +55,9 @@ permalink: /tech/
 ### Personal
 
 * https://www.blackmagicdesign.com/products/davinciresolve
+* https://kno.wled.ge/ - WLED Project
 
+### Web
+
+* <https://kenwheeler.github.io/slick/> - Slick web carousel
+* 

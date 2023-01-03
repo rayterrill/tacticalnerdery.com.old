@@ -12,6 +12,11 @@ aws eks update-kubeconfig --region [region] --name [cluster name]
 </pre>
 <hr />
 #### Run a Ubuntu Pod in a Cluster to Debug Something
+##### 2023 Update
+Add this to your .zshrc (or equiv) and use it to drop a debug container in your cluster:
+```
+alias kshell='kubectl run -it --image bash --restart Never --rm shell'
+```
 One of these days I'm gonna push an image to Dockerhub that has all the tools I need so I don't need to `apt update; apt install curl;`, etc - but that is not today. :)
 <pre class="code">
 kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
