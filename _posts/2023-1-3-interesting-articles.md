@@ -48,3 +48,5 @@ categories: tech
 * [APIs for building portable and reliable microservices](https://docs.dapr.io/concepts/overview/)
 
 * [Some Useful Patterns for Go's os/exec](https://www.dolthub.com/blog/2022-11-28-go-os-exec-patterns/)
+
+* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
