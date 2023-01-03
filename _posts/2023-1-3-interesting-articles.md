@@ -50,3 +50,28 @@ categories: tech
 * [Some Useful Patterns for Go's os/exec](https://www.dolthub.com/blog/2022-11-28-go-os-exec-patterns/)
 
 * [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+
+* [Toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
+
+* [Beyond fmt.Errorf()—everyday error objects in Go](https://dr-knz.net/cockroachdb-errors-everyday.html)
+
+* [Microservice Security Design Patterns for Kubernetes (Part 1)](https://blog.kellybrazil.com/2019/12/05/microservice-security-design-patterns-for-kubernetes-part-1/)
+
+* [Go 1.20 will add a new function "Join" in "errors" package](https://twitter.com/go100and1/status/1593170623014252545?s=43&t=rHHdAm0HksKWaHcjigDrFg)
+
+* [How to Add Extra Information to Errors in Go](https://www.digitalocean.com/community/tutorials/how-to-add-extra-information-to-errors-in-go)
+
+* [Go Training Links](https://github.com/ardanlabs/gotraining/tree/master/reading)
+
+* [API contract testing with Joi](https://circleci.com/blog/api-contract-testing-with-joi/)
+
+* [Using GitHub Actions to summarise your Go tests](https://www.cloudwithchris.com/blog/githubactions-testsummary-go/)
+
+* [Calling Multiple APIs Concurrently in Go (Goroutine and WaitGroup)](https://levelup.gitconnected.com/calling-multiple-apis-concurrently-in-go-goroutine-and-waitgroup-5535155902c3)
+
+* [Docker: How To Debug Distroless And Slim Containers](https://iximiuz.com/en/posts/docker-debug-slim-containers/)
+
+* [A modern watch command](https://github.com/sachaos/viddy)
+
+* [Mochary Method](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic)
+
