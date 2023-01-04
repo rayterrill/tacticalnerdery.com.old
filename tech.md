@@ -37,7 +37,8 @@ permalink: /tech/
 * <https://github.com/uber-go/zap> - Blazing fast, structured, leveled logging in Go.
 * <https://github.com/fatih/color> - Color package for Go
 * <https://github.com/russross/blackfriday> - Blackfriday: a markdown processor for Go
-* <https://github.com/microcosm-cc/bluemonday> - bluemonday: a fast golang HTML sanitizer 
+* <https://github.com/microcosm-cc/bluemonday> - bluemonday: a fast golang HTML sanitizer
+* <github.com/kylelemons/godebug/pretty> - Pretty printer
 
 ### NodeJS
 
