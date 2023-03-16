@@ -6,6 +6,10 @@ permalink: /snippets/
 
 > Snippets or little things I cannot seem to remember but continue to need to get things done.
 
+#### Curl with SNI Support and Client/mTLS
+```
+curl -k https://myhost.mydomain.com --cert public.pem --key private.pem --header "Host: myhost.mydomain.com" --resolve myhost.mydomain.com:443:20.231.112.51
+```
 #### Adding an cluster to kubeconfig
 <pre class="code">
 aws eks update-kubeconfig --region [region] --name [cluster name]
