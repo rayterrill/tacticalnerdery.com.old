@@ -38,7 +38,10 @@ permalink: /tech/
 * <https://github.com/fatih/color> - Color package for Go
 * <https://github.com/russross/blackfriday> - Blackfriday: a markdown processor for Go
 * <https://github.com/microcosm-cc/bluemonday> - bluemonday: a fast golang HTML sanitizer
-* <github.com/kylelemons/godebug/pretty> - Pretty printer
+* <https://github.com/kylelemons/godebug/pretty> - Pretty printer
+* <https://pkg.go.dev/text/tabwriter> - Package tabwriter implements a write filter (tabwriter.Writer) that translates tabbed columns in input into properly aligned text.
+* <https://github.com/h2non/gock> - Versatile HTTP mocking made easy in Go that works with any net/http based stdlib implementation.
+* 
 
 ### NodeJS
 
