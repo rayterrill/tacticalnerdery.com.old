@@ -44,7 +44,7 @@ This annoys the shit out of me and I always forget this command. :)
 export AWS_SDK_LOAD_CONFIG=1
 </pre>
 <hr />
-#### Use grep, awk, and xargs to Do Some Sketchy Stuff in a Cluster
+#### Use grep, awk, and xargs to Do Some Sketchy Stuff in a Cluster or with Terraform
 Disclaimers: YMMV/IANAL/Don't try this at home I'm a professional :)
 
 <pre class="code">
@@ -53,6 +53,8 @@ kubectl get po | grep Terminating | awk '{print $1}' | xargs kubectl delete po -
 kubectl get po --all-namespaces | grep Terminating | awk '{print $2 " " $1}' | xargs printf 'kubectl delete po %s -n %s --force --grace-period=0\n'
 
 kubectl get crd | grep kyverno | awk '{print $1}' | xargs kubectl delete crd
+
+terraform state list | grep fastly | awk '{print "\x27"$1"\x27"}' | xargs terraform state rm #single quotes around the string
 </pre>
 <hr />
 #### Clear the Console + Scrollback in the VS Code Console
