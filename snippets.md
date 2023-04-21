@@ -6,6 +6,12 @@ permalink: /snippets/
 
 > Snippets or little things I cannot seem to remember but continue to need to get things done.
 
+#### Import Powershell Module from a Specific Location
+```
+pwsh
+cd my-module
+import-module -name ./Module/
+```
 #### Curl with SNI Support and Client/mTLS
 ```
 curl -k https://myhost.mydomain.com --cert public.pem --key private.pem --header "Host: myhost.mydomain.com" --resolve myhost.mydomain.com:443:20.231.112.51
