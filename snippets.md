@@ -122,3 +122,24 @@ aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/my-cluster,
     [commit]
         gpgsign = true
     ```
+
+##### Setting GPG with a Yubikey up on a New Computer
+
+1. Make sure gpg and pinentry-mac are installed
+2. export your public key
+   ```
+   gpg --output username.gpg --export YOUR_EMAIL_ADDRESS
+   ```
+3. copy the key over to the new computer
+4. import the key on your computer
+   ```
+   gpg --import username.gpg
+   ```
+5. Configure pinentry and gpg (.gnupg/gpg-agent.conf - make sure you point to the correct path for pinentry on your machine):
+   ```
+   pinentry-program /opt/homebrew/bin/pinentry-mac
+   ```
+6. Restart gpg-agent:
+   ```
+   gpgconf --kill gpg-agent
+   ```
