@@ -3,7 +3,7 @@ layout: post
 title:  "Interesting Articles - 7/3/2023"
 categories: tech
 ---
-* [How We Scaled to 100 Million Active Users Using Kafka and Golang — Eventual Consistency]([https://www.bejarano.io/terraform-stateless/](https://itnext.io/how-we-scaled-to-100-million-active-users-using-kafka-and-golang-eventual-consistency-6241cfeba7e8))
+* [How We Scaled to 100 Million Active Users Using Kafka and Golang — Eventual Consistency](https://itnext.io/how-we-scaled-to-100-million-active-users-using-kafka-and-golang-eventual-consistency-6241cfeba7e8)
 
 * [GoNB, A Go Notebook Kernel for Jupyter](https://github.com/janpfeifer/gonb)
 
