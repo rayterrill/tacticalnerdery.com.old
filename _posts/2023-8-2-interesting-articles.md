@@ -3,44 +3,44 @@ layout: post
 title:  "Interesting Articles - 8/2/2023"
 categories: tech
 ---
-* [https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/](Rethinking infrastructure as code from scratch
+* [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 
-* [https://simonwillison.net/2021/Jul/17/standing-out/](It doesn’t take much public creativity to stand out as a job candidate)
+* [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 
-* [https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/](Introducing CNAME Flattening: RFC-Compliant CNAMEs at a Domain's Root)
+* [Introducing CNAME Flattening: RFC-Compliant CNAMEs at a Domain's Root](https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/)
 
-* [https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow/](Ask like a human: Implementing semantic search on Stack Overflow)
+* [Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow/)
 
 * [Corey Quinn Tweet on Microsoft Key Issue](https://twitter.com/quinnypig/status/1682950110467231745?s=43&t=1W4M2e8Opr-93iM1M6CgPA)
 
-* [https://twitter.com/carlvellotti/status/1682101886730608640?s=43&t=1W4M2e8Opr-93iM1M6CgPA](Interaction design separates good from great products. The best way to learn it is with examples.)
+* [Interaction design separates good from great products. The best way to learn it is with examples.](https://twitter.com/carlvellotti/status/1682101886730608640?s=43&t=1W4M2e8Opr-93iM1M6CgPA)
 
-* [https://twitter.com/milan_milanovic/status/1681184239629266944?s=58&t=IyF4i2tdgBUpfE0ydQfX9A](23 Design Patterns)
+* [23 Design Patterns](https://twitter.com/milan_milanovic/status/1681184239629266944?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
 
-* [https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings](Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings)
+* [Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings](https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings)
 
-* [https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over](Amateurs obsess over tools, pros over mastery)
+* [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 
-* [https://www.yieldcode.blog/post/why-engineers-should-write/](Why engineers should focus on writing)
+* [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 
-* [https://github.com/a16z-infra/ai-getting-started](A Javascript AI getting started stack)
+* [A Javascript AI getting started stack](https://github.com/a16z-infra/ai-getting-started)
 
-* [https://github.com/a16z-infra/companion-app](AI companions with memory)
+* [AI companions with memory](https://github.com/a16z-infra/companion-app)
 
-* [https://masteringbackend.com/posts/docker-tutorial](The Definitive Guide To Docker in 2023)
+* [The Definitive Guide To Docker in 2023](https://masteringbackend.com/posts/docker-tutorial)
 
-* [https://martinfowler.com/articles/patterns-of-distributed-systems/](Patterns of Distributed Systems)
+* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
-* [https://trstringer.com/cheap-kubernetes-in-azure/](Run Kubernetes in Azure the Cheap Way)
+* [Run Kubernetes in Azure the Cheap Way](https://trstringer.com/cheap-kubernetes-in-azure/)
 
-* [https://www.dancowell.com/software-engineers-hate-code/](Software engineers hate code.)
+* [Software engineers hate code.](https://www.dancowell.com/software-engineers-hate-code/)
 
-* [https://fev.al/posts/personal-relations/](On Personal Relations As A Manager)
+* [On Personal Relations As A Manager](https://fev.al/posts/personal-relations/)
 
-* [https://github.com/ardanlabs/service](Starter code for writing web services in Go using Kubernetes.)
+* [Starter code for writing web services in Go using Kubernetes.](https://github.com/ardanlabs/service)
 
-* [https://www.microsoft.com/en-us/security/blog/2023/07/19/expanding-cloud-logging-to-give-customers-deeper-security-visibility/](​​Expanding cloud logging to give customers deeper security visibility)
+* [Expanding cloud logging to give customers deeper security visibility](​​https://www.microsoft.com/en-us/security/blog/2023/07/19/expanding-cloud-logging-to-give-customers-deeper-security-visibility/)
 
-* [https://codefresh.io/learn/argo-workflows/learn-argo-workflows-with-8-simple-examples/](Learn Argo Workflows with 8 Simple Examples)
+* [Learn Argo Workflows with 8 Simple Examples](https://codefresh.io/learn/argo-workflows/learn-argo-workflows-with-8-simple-examples/)
 
-* [https://gpt-index.readthedocs.io/en/latest/index.html](LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data.)
+* [LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data.](https://gpt-index.readthedocs.io/en/latest/index.html)
