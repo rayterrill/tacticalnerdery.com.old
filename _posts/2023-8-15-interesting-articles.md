@@ -28,3 +28,21 @@ categories: tech
 * [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 
 * [Debug Go Request Latency with Datadog's Profiling Timeline](https://blog.felixge.de/debug-go-request-latency-with-datadogs-profiling-timeline/)
+
+* [What is a Senior Software Engineer at Wise and Amazon?](https://blog.pragmaticengineer.com/what-is-a-senior-software-engineer-at-wise-and-amazon/)
+
+* [Writing boilerplate to implement an interface might be the most basic generative response you can get out of Copilot](https://twitter.com/rakyll/status/1678979284332077062)
+
+* [A Go blocking leaky-bucket rate limit implementation](https://github.com/uber-go/ratelimit)
+
+* [5 Ways to Write a Go Database Model](https://pboyd.io/posts/5-ways-to-write-a-go-database-model/)
+
+* [An Express-inspired web framework written in Go.](https://gofiber.io/)
+
+* [Fast and flexible scripting for Go developers and DevOps.](https://risor.io/)
+
+* [Use Cobra to Build Go-Powered CLIs](https://www.twilio.com/blog/use-cobra-build-go-powered-clis)
+
+* [Layerform helps engineers create reusable environment stacks using plain `.tf` files.](https://layerform.dev/)
+
+* [Let's Encrypt/ACME client and library written in Go](https://github.com/go-acme/lego)
