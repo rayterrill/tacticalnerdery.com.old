@@ -34,3 +34,7 @@ categories: tech
 * [Unit tests with real dependencies](https://testcontainers.com/)
 
 * [Versioning ArgoWF Templates](https://github.com/codefresh-io/argo-hub/blob/main/workflows/github/versions/0.0.1/workflowTemplate.yaml)
+
+* [OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go](https://github.com/sashabaranov/go-openai)
+
+* [An interactive study of common retry methods](https://encore.dev/blog/retries)
