@@ -35,6 +35,10 @@ kubectl run --rm -it --image=ubuntu debugme -- /bin/bash -l
 <pre class="code">
 docker run --name test -it --rm ubuntu
 </pre>
+#### Run a Debug Container in an existing pod
+<pre class="code">
+kubectl debug -it podname --image=ubuntu --target=containername -n namespace
+</pre>
 #### Run a Ubuntu Container with PowerShell (No arm64 images yet)
 <pre class="code">
 docker run --name test -it --rm --platform=linux/amd64 mcr.microsoft.com/powershell
