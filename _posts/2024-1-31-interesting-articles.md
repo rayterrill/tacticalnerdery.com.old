@@ -56,3 +56,7 @@ categories: tech
 * [Ask HN: Is it feasible to train my own LLM?](https://news.ycombinator.com/item?id=38844324)
 
 * [Mini.WebVM: Your own Linux box from Dockerfile, virtualized in the browser via WebAssembly](https://labs.leaningtech.com/blog/mini-webvm-your-linux-box-from-dockerfile-via-wasm)
+
+* [Executing Cron Scripts Reliably At Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/)
+
+* [Certifications you can take in 2024 { for free }](https://twitter.com/denicmarko/status/1752660598511349805?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
