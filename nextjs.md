@@ -19,6 +19,10 @@ npx create-next-app@latest
 
 * [Authentication & Subscriptions in NextJs 14](https://www.youtube.com/watch?v=vi9VhhMFpWI)
 
+* [Dark Theme in NextJs 13 – Using React Context in Server Components](https://www.youtube.com/watch?v=RTAJ-enfums)
+
+* []()
+
 #### Tailwind
 
 * [Tailwind Preflight](https://tailwindcss.com/docs/preflight)
