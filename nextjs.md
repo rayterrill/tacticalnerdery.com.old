@@ -21,7 +21,11 @@ npx create-next-app@latest
 
 * [Dark Theme in NextJs 13 – Using React Context in Server Components](https://www.youtube.com/watch?v=RTAJ-enfums)
 
-* []()
+* [In React, needless complexity and repeated null checks can often be eliminated via one simple pattern](https://x.com/housecor/status/1766098430466670908?s=20)
+
+#### Design
+
+* [Vercel design system for building consistent web experiences.](https://vercel.com/geist/introduction)
 
 #### Tailwind
 
