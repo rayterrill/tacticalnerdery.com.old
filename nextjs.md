@@ -23,6 +23,8 @@ npx create-next-app@latest
 
 * [In React, needless complexity and repeated null checks can often be eliminated via one simple pattern](https://x.com/housecor/status/1766098430466670908?s=20)
 
+* [Next.js Authentication By Example: Using App Router](https://developer.auth0.com/resources/guides/web-app/nextjs/basic-authentication)
+
 #### Design
 
 * [Vercel design system for building consistent web experiences.](https://vercel.com/geist/introduction)
@@ -34,6 +36,8 @@ npx create-next-app@latest
 * [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
 * [Tailwind Customizing Colors](https://tailwindcss.com/docs/customizing-colors)
+
+* [center ffs](https://x.com/thekitze/status/1769315165428969506?s=20)
 
 ### Ideas
 ![form submit with client side validation](https://github.com/rayterrill/tacticalnerdery.com/assets/4378762/9fc86e58-daca-4121-b1f3-5d4f3d83dc4c)
