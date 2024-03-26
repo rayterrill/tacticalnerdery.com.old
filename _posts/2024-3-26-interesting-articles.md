@@ -14,5 +14,5 @@ categories: tech
 
 * [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 
-* [As many companies are still wrapping up 2023 performance cycle and many managers setting expectations with their directs for the new cycle, here is an amazing piece by @rhein_wein on Expectation Setting for Engineers and what kind of metrics to use instead of the bad ones](https://twitter.com/thiagoghisi/status/1772413097468125404?s=43)
+* [Using Metrics to Measure Individual Developer Performance](https://lauratacho.com/blog/using-metrics-to-measure-individual-developer-performance)
 
