@@ -39,3 +39,12 @@ categories: tech
 * [NextJS Server and Client Composition Patterns](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
 
 * [Graphical LLM builder](https://github.com/logspace-ai/langflow)
+
+* [The Relative Cost of Bandwidth Around the World](https://blog.cloudflare.com/the-relative-cost-of-bandwidth-around-the-world)
+
+* [K8sGPT + LocalAI: Unlock Kubernetes superpowers for free!](https://itnext.io/k8sgpt-localai-unlock-kubernetes-superpowers-for-free-584790de9b65)
+
+* [Gemma, Ollama and LangChainGo](https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/)
+
+* [How You Can Simplify Cloud Development with Winglang?](https://blog.dailydoseofds.com/p/how-you-can-simplify-cloud-development)
+  
