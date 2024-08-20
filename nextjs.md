@@ -11,6 +11,9 @@ permalink: /nextjs/
 npx create-next-app@latest
 ```
 <hr />
+#### keeping-server-only-code-out-of-the-client-environment
+[keeping-server-only-code-out-of-the-client-environment](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns#keeping-server-only-code-out-of-the-client-environment)
+<hr />
 #### Adding next-themes for dark/light mode support to a NextJS App router project
 [https://www.rayterrill.com/2024/03/06/NextJSNextThemesAppRouter.html](https://www.rayterrill.com/2024/03/06/NextJSNextThemesAppRouter.html)
 <hr />
