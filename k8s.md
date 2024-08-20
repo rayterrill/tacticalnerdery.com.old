@@ -47,3 +47,7 @@ See what versions of a chart are available:
 <pre class="code">
 helm search repo ingress-nginx/ingress-nginx --versions
 </pre>
+#### Cleanup Docker Things
+<pre class="code">
+docker system prune --volumes
+</pre>
