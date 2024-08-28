@@ -70,6 +70,11 @@ export default function Home() {
 }
 </pre>
 
+### Rendering Options
+
+* Server data + Client side: grab all the data, allow users to view + manipulate it client side (table, search, etc). Using query string to do manipulations allows it to be linkable.
+* Server side + server side: grab data, present it to the user. To see additional details, link them to another server “details” page that grabs the details they need for that item. Also allows it to be linkable.
+
 ### Links
 #### NextJS
 
