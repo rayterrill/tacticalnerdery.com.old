@@ -6,6 +6,8 @@ categories: tech
 
 * [Quality of life improvement: @nextjs can now run with HTTPS locally](https://x.com/leeerob/status/1743709145386131906?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
 
+* [HTTPS localhost with Next.js](https://x.com/asidorenko_/status/1829132672720830559)
+
 * [Free and open source, database design editor.](https://chartdb.io/)
 
 * [Programmatic form submission in Next.js](https://x.com/asidorenko_/status/1828413752913387699?s=43)
@@ -33,3 +35,7 @@ categories: tech
 * [just built a todo app on sunday for exploring localStorage in @nextjs](https://x.com/maliksvd/status/1822854534760169562?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
 
 * [This absurd "one-liner" will show you the name of the command running on each port on MacOS, which is something I need to do constantly so leaving it here:](https://x.com/seldo/status/1823126087423099192?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
+
+* [RIP App Stores 2008 - 2024](https://x.com/RobertJBye/status/1828942952837632205)
+
+* [This Python training is for JPMorgan business analysts and traders, as well as select clients.](https://github.com/jpmorganchase/python-training)
