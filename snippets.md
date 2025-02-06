@@ -102,7 +102,15 @@ aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/my-cluster,
    ```
    pinentry-program /opt/homebrew/bin/pinentry-mac
    ```
-6. Restart gpg-agent:
+6. Pull the key into the local agent:
+   ```
+   gpg --card-edit
+   > fetch
+   > Ctrl+c
+   gpg --card-status
+   ```
+6. Copy your .gitconfig over from your other machine
+7. Restart gpg-agent:
    ```
    gpgconf --kill gpg-agent
    ```
