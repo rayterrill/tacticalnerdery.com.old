@@ -59,13 +59,13 @@ aws ec2 describe-instances --filters "Name=tag:kubernetes.io/cluster/my-cluster,
 2. Reset the pins if desired (recommended)
     1. `gpg --card-edit`
     2. Enter admin mode: `admin`
-    3. Change the passwords: `passwd`
+    3. Change the passwords if desired: `passwd`
 3. Change the key size to 4096 (prob defaults to 2048)
     1. `gpg --card-edit`
     2. Enter admin mode: `admin`
     3. Change key attributes: `key-attr`
     4. Choose RSA
-    5. Set the keysize to 4096
+    5. Set the keysize to 4096. If prompted, enter the pin, which by default is 12345678.
 4. Generate GPG key
     1. `gpg --card-edit`
     2. Enter admin mode: `admin`
