@@ -87,3 +87,6 @@ categories: tech
 * [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 
 * [Demo of forms with React 19 and Next.js.](https://x.com/leeerob/status/1869881269468663994?s=43)
+
+* [Delivering 15TB of 4K video with Cloudflare R2 for $2.18](https://screencasting.com/cheap-video-hosting)
+
