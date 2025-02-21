@@ -57,3 +57,33 @@ categories: tech
 * [Ignore the Grifters - AI Isn't Going to Kill the Software Industry](https://dustinewers.com/ignore-the-grifters/)
 
 * [New open source template: NextJS](https://x.com/nextjs/status/1882542842272498173?s=43)
+
+* [gRPC vs REST: Understanding gRPC, OpenAPI and REST and when to use them in API design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+
+* [Experimenting with Stealer Logs in Have I Been Pwned](https://www.troyhunt.com/experimenting-with-stealer-logs-in-have-i-been-pwned/)
+
+* [How to be a Principal Engineer/Senior Principal Engineer/Senior Architect/fancy-sounding-title Engineer, a thread:](https://x.com/jamesacowling/status/1879984381785514083?s=43)
+
+* [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
+
+* [Treating IT as a cost center is like viewing your immune system as an expense.](https://x.com/jackrhysider/status/1878458412444336236?s=43)
+
+* [Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!](https://github.com/hybridgroup/go-haystack)
+
+* [Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.](https://github.com/nextjs/saas-starter)
+
+* [Single-Page Applications with Next.js](https://nextjs.org/docs/app/building-your-application/upgrading/single-page-applications)
+
+* [Cloudflare workflows](https://x.com/_ashleypeacock/status/1876680637656039781?s=43)
+
+* [The most comprehensive authentication framework for TypeScript.](https://www.better-auth.com/)
+
+* [Microsoft 365 Licensing](https://m365maps.com/)
+
+* [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
+
+* [Remember, as security professionals we are defending the free flow of ideas and capital that are essential for human progress. Defending lives and livelihoods. That's the mission. Happy Holidays.](https://x.com/philvenables/status/1870850304914387021?s=58&t=IyF4i2tdgBUpfE0ydQfX9A)
+
+* [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
+
+* [Demo of forms with React 19 and Next.js.](https://x.com/leeerob/status/1869881269468663994?s=43)
