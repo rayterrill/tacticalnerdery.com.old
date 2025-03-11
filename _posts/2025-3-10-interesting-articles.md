@@ -61,3 +61,9 @@ categories: tech
 * [Improve network fault tolerance in Azure Kubernetes Service using TCP keepalive](https://learn.microsoft.com/en-us/azure/aks/improve-network-fault-tolerance-in-aks-using-tcp-keepalive)
 
 * [Demystifying Kubernetes Services Packet Path](https://medium.com/@abhishek.amjeet/demystifying-kubernetes-services-packet-path-98297874e5f5)
+
+* [Grit is a developer tool to put software maintenance on autopilot.](https://docs.grit.io/)
+
+* [A utility to list and activate Azure Entra ID Privileged Identity Management roles from the CLI](https://github.com/netr0m/az-pim-cli)
+
+* [Zero-Downtime Kubernetes Deployments on AWS with EKS](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/)
