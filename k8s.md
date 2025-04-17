@@ -6,10 +6,6 @@ permalink: /k8s/
 
 > k8s things
 
-#### Adding an EKS cluster to kubeconfig
-<pre class="code">
-aws eks update-kubeconfig --region [region] --name [cluster name]
-</pre>
 <hr />
 #### Run a Ubuntu Pod in a Cluster to Debug Something
 ##### 2023 Update
