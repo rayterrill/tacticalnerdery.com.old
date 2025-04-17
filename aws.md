@@ -23,6 +23,10 @@ Tell AWS which profile to use when running commands so you don't need to add --p
 <pre class="code">
 export AWS_PROFILE=profile1
 </pre>
+See the details of our currnet login session:
+<pre class="code">
+aws sts get-caller-identity
+</pre>
 
 ### Grab EKS Config
 <pre class="code">
