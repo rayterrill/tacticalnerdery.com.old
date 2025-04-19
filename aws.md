@@ -15,9 +15,13 @@ sso_role_name = AdministratorAccess
 region = us-west-2
 output = json
 </pre>
-Login with SSO:
+Login with SSO interactively:
 <pre class="code">
 aws sso login --profile profile1
+</pre>
+Login with SSO in a non-interactive session using device code (in a SSH session, etc):
+<pre class="code">
+aws sso login --profile profile1 --use-device-code
 </pre>
 Tell AWS which profile to use when running commands so you don't need to add --profile to everything:
 <pre class="code">
