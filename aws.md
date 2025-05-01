@@ -32,7 +32,12 @@ See the details of our currnet login session:
 aws sts get-caller-identity
 </pre>
 
-### Grab EKS Config
+### EKS
+#### Grab EKS Config
 <pre class="code">
 aws eks update-kubeconfig --name mycluster --region us-west-2
+</pre>
+#### Login to ECR
+<pre class="code">
+aws ecr get-login-password --region us-west-2 | docker login --username AWS --password-stdin 760564547102.dkr.ecr.us-west-2.amazonaws.com
 </pre>
