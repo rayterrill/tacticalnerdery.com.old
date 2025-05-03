@@ -32,6 +32,12 @@ See the details of our currnet login session:
 aws sts get-caller-identity
 </pre>
 
+### Random Things
+#### Log into an EC2 instance with SSH
+<pre class="code">
+ssh -i ~/.ssh/raytest.pem ubuntu@hostname.us-west-2.compute.amazonaws.com
+</pre>
+
 ### EKS
 #### Grab EKS Config
 <pre class="code">
