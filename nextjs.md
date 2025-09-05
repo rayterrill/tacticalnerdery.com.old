@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nextjs
+title: NextJS
 permalink: /nextjs/
 ---
 

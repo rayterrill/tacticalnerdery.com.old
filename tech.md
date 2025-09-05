@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Tech
 permalink: /tech/
 ---
 
@@ -41,7 +40,7 @@ permalink: /tech/
 * <https://github.com/kylelemons/godebug/pretty> - Pretty printer
 * <https://pkg.go.dev/text/tabwriter> - Package tabwriter implements a write filter (tabwriter.Writer) that translates tabbed columns in input into properly aligned text.
 * <https://github.com/h2non/gock> - Versatile HTTP mocking made easy in Go that works with any net/http based stdlib implementation.
-* 
+*
 
 ### NodeJS
 
@@ -69,4 +68,4 @@ permalink: /tech/
 ### Web
 
 * <https://kenwheeler.github.io/slick/> - Slick web carousel
-* 
+*
