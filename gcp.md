@@ -11,7 +11,7 @@ gcloud projects list
 <hr />
 #### Set GCP project
 <pre class="code">
-gcloud config set project <PROJECT_ID>
+gcloud config set project PROJECT_ID
 </pre>
 #### Get Cluster Credentials
 <pre class="code">
