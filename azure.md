@@ -13,3 +13,7 @@ az aks get-credentials --resource-group raytest --name raytest --public-fqdn
 <pre class="code">
 az acr login --name reponame
 </pre>
+#### Get a Token for PostgresSQL
+<pre class="code">
+az account get-access-token --resource-type oss-rdbms
+</pre>
